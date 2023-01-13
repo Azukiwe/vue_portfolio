@@ -14,8 +14,6 @@
             <button>SUBMIT</button>
         </form>
         <div class="info">
-        <a href=""><i class="fas fa-regular fa-mobile" style="color:black;" > 073 601 8746</i></a><br>
-        <br>
         <a href=""><i class="fa-sharp fa-solid fa-envelope-open" style="color:black;" > dywiliuzukhanye@gmail.com</i></a><br>
         <br>
         <a href=""><i class="fa-solid fa-phone " style="color:black;" > 073 601 8746</i></a> <br>
@@ -31,11 +29,17 @@ form{
 }
 input{
     width: 40rem;
-    
+   
+}
+input[type="number"]::-webkit-inner-spin-button,
+.input[type="number"]::-webkit-outer-spin-button{
+    -webkit-appearance:none ;
+   
 }
 label{
     color: black;
     font-style: italic;
+    font-weight: bold;
 }
 .msg{
     height: 10rem;

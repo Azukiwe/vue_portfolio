@@ -38,7 +38,7 @@ export default {
         },
         {
           name: "Sneaker",
-          image: "https://i.postimg.cc/MG8Px0V8/sneaker.jpg",
+          image: "https://i.postimg.cc/BQHgRHKf/hi2-removebg-preview.png",
           github: "https://github.com/Azukiwe/sneaker_site_2",
           netlify: "https://sneaker2.netlify.app",
         },
@@ -69,8 +69,9 @@ export default {
   }
   button{
    margin:1.5rem;
-   border: 0.2rem solid palevioletred;
-   background-color: palevioletred;
+   border: 0.2rem solid plum;
+   background-color: plum;
+  border-radius: 20%;
   }
 
 

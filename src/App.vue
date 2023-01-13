@@ -29,6 +29,9 @@ export default {
   background-color: lightgrey;
  
 }
+html{
+  height:100vh
+}
 
 nav {
   padding: 30px;
@@ -40,7 +43,7 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  color: #b94287;
+  color:deeppink;
 }
 .title {
   position: relative;

@@ -4,9 +4,9 @@
       <div class="row">
         <div class="col-2">UZUKHANYE DYWILI.</div>
         <div class="col-3">
-          <a href="https://www.linkedin.com/in/uzukhanye-dywili-a6976b255">  <i class=" fa-brands fa-linkedin"></i></a>
-          <a href="https://www.instagram.com/uzukhanyedywili"> <i class="fa-brands fa-instagram"></i></a>
-          <a href="https://www.github.com/Azukiwe"> <i class="fa-brands fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/uzukhanye-dywili-a6976b255" target="_blank">  <i class=" fa-brands fa-linkedin"></i></a>
+          <a href="https://www.instagram.com/uzukhanyedywili"> <i class="fa-brands fa-instagram" target="_blank"></i></a>
+          <a href="https://www.github.com/Azukiwe"> <i class="fa-brands fa-github" target="_blank"></i></a>
         </div>
       </div>
       <div class="row">

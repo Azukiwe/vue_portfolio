@@ -77,6 +77,8 @@ comment:"Uzukhanye is a grounded and loving individual who easily adapts to chan
     grid-template-rows: repeat(2, 1fr);
     gap: 4rem;
     background-color: lightgrey;
+    margin: 4rem;
+    border: none;
     
 }
 .flip-card {
@@ -116,9 +118,10 @@ comment:"Uzukhanye is a grounded and loving individual who easily adapts to chan
   
   .flip-card-back {
     background-color: plum;
-    color: white;
+    color:white;
     transform: rotateY(180deg);
     overflow-y: auto;
+    font-weight: bold;
   }
   
 </style>

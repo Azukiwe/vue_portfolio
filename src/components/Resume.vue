@@ -36,13 +36,13 @@
         <li>Outdoor Activities</li>
       </ul>
       <div class="icons">
-        <a href="https://www.linkedin.com/in/uzukhanye-dywili-a6976b255">
+        <a href="https://www.linkedin.com/in/uzukhanye-dywili-a6976b255" target="_blank">
           <i class="fa-brands fa-linkedin fa-bounce"></i
         ></a>
-        <a href="https://www.instagram.com/uzukhanyedywili">
+        <a href="https://www.instagram.com/uzukhanyedywili" target="_blank">
           <i class="fa-brands fa-instagram fa-bounce"></i
         ></a>
-        <a href="https://www.github.com/Azukiwe">
+        <a href="https://www.github.com/Azukiwe" target="_blank">
           <i class="fa-brands fa-github fa-bounce"></i
         ></a>
       </div>

@@ -21,7 +21,6 @@
 </template>
 <style scoped>
     .about-sec{
-        font-family: "courier-new,sans-serif";
         box-shadow: 5px 10px plum;
         border-radius: 2rem;
         width: 60rem;
