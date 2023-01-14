@@ -1,6 +1,6 @@
 <template >
   <div class="container">
-  <div class="card-2" style="width: 18rem; display:flex; background-color: white; height:24rem" v-for="project in projects">
+  <div class="card-2"  v-for="project in projects">
     <div class="card-whole">
     <img :src="project.image" class="card-img-top" alt="...">
     <div class="card-body">
@@ -51,8 +51,8 @@ export default {
         {
           name: "Cards",
           image: "https://i.postimg.cc/pTQ6zML1/6-removebg-preview.png",
-          github: "",
-          netlify: "",
+          github: "https://github.com/Azukiwe/card.git",
+          netlify: "clever-card.netlify.app",
         },
       ]
     }
@@ -65,14 +65,29 @@ export default {
     grid-template-columns: auto auto auto;
     gap: 2rem;
     margin: 6rem;
-   
   }
+
+  .card-2{
+    width: 18rem; 
+    display:flex; 
+    background-color: white;
+    height:24rem
+  }
+
+  img{
+    width: 15rem;
+    margin-top: 1rem;
+  }
+
   button{
    margin:1.5rem;
    border: 0.2rem solid plum;
    background-color: plum;
   border-radius: 20%;
   }
+
+
+
 
 
  

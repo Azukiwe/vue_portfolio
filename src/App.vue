@@ -20,17 +20,21 @@ export default {
   padding: 0;
   margin: 0;
 }
+NavBar, Footer{
+  grid-column: 1/ -1;
+} 
 #app {
-  font-family:'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
   background-color: lightgrey;
- 
+  
 }
-html{
-  height:100vh
+
+html {
+  height: 100vh;
 }
 
 nav {
@@ -43,7 +47,7 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  color:deeppink;
+  color: deeppink;
 }
 .title {
   position: relative;
@@ -75,4 +79,6 @@ nav a.router-link-exact-active {
   font-size: 5rem;
   color: deeppink;
 }
+
+
 </style>

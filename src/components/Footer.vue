@@ -4,9 +4,18 @@
       <div class="row">
         <div class="col-2">UZUKHANYE DYWILI.</div>
         <div class="col-3">
-          <a href="https://www.linkedin.com/in/uzukhanye-dywili-a6976b255" target="_blank">  <i class=" fa-brands fa-linkedin"></i></a>
-          <a href="https://www.instagram.com/uzukhanyedywili"> <i class="fa-brands fa-instagram" target="_blank"></i></a>
-          <a href="https://www.github.com/Azukiwe"> <i class="fa-brands fa-github" target="_blank"></i></a>
+          <a
+            href="https://www.linkedin.com/in/uzukhanye-dywili-a6976b255"
+            target="_blank"
+          >
+            <i class="fa-brands fa-linkedin"></i
+          ></a>
+          <a href="https://www.instagram.com/uzukhanyedywili">
+            <i class="fa-brands fa-instagram" target="_blank"></i
+          ></a>
+          <a href="https://www.github.com/Azukiwe">
+            <i class="fa-brands fa-github" target="_blank"></i
+          ></a>
         </div>
       </div>
       <div class="row">
@@ -34,11 +43,9 @@
                 marginheight="0"
                 marginwidth="0"
               ></iframe
-              ><a href="https://www.whatismyip-address.com/divi-discount/"
-                ></a
+              ><a href="https://www.whatismyip-address.com/divi-discount/"></a
               ><br />
-              <a href="https://www.embedgooglemap.net"></a
-              >
+              <a href="https://www.embedgooglemap.net"></a>
             </div>
           </div>
         </div>
@@ -50,23 +57,22 @@
 <script>
 export default {};
 </script>
- <style>
-.footer{
-    background-color: palevioletred;
-    font-family:'Times New Roman', Times, serif;   
+<style>
+.footer {
+  background-color: palevioletred;
+  font-family: "Times New Roman", Times, serif;
 }
-.col-2{
-    font-size: 1.15rem;
-    color: black;
+.col-2 {
+  font-size: 1.15rem;
+  color: black;
 }
-.col-3{
-    color: black;
-    
+.col-3 {
+  color: black;
 }
-.fa-brands{
+.fa-brands {
   color: black;
   font-size: 1.15rem;
- padding: 1rem;
-transform: translateX(17rem);
+  padding: 1rem;
+  transform: translateX(17rem);
 }
 </style>

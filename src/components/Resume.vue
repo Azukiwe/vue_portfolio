@@ -114,7 +114,6 @@ export default {
           text: "VUE JS",
         },
       ],
-      icons: ["Volunteer Work", "Music", "Hiking", "Outdoor A"],
     };
   },
 };
