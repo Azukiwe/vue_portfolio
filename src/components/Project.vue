@@ -5,7 +5,7 @@
     <img :src="project.image" class="card-img-top" alt="...">
     <div class="card-body">
       <h2 class="card-title">{{project.name}}</h2>
-      <a :href="project.github" ><button>Check code</button ></a >
+      <a :href="project.github" ><button>Check code</button ></a>
       <a :href="project.netlify"><button>Go Live</button></a>
     </div>
   </div>
@@ -52,7 +52,7 @@ export default {
           name: "Cards",
           image: "https://i.postimg.cc/pTQ6zML1/6-removebg-preview.png",
           github: "https://github.com/Azukiwe/card.git",
-          netlify: "clever-card.netlify.app",
+          netlify: "https://clever-card.netlify.app",
         },
       ]
     }
